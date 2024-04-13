@@ -70,6 +70,4 @@ void serialCmd(char serialCmdChar)
 }
 ```
 
-
-
 2024.4.11

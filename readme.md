@@ -102,3 +102,16 @@ arduino c++ c
 
     * 通过软件串口通信
 
+#### 智能应用
+
+* [光敏电阻](./notes/智能应用/光敏电阻.md)
+
+* [红外人体感应模块](./notes/智能应用/红外人体感应模块.md)
+
+* [RGBLED](./notes/智能应用/RGBLED.md)
+
+* [arduino内存](./notes/智能应用/arduino内存.md)
+
+* [EEPROM](./notes/智能应用/EEPROM.md)
+
+* [内存优化](./notes/智能应用/优化内存使用.md)
