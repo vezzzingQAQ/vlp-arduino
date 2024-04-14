@@ -152,3 +152,21 @@ fill_gradient(leds,00,CHSV(50,255,255),28,CHSV(150,255,255),SHORTEST_HUES);
 ```
 
 ![](./../assets/96.png)
+
+### 效果6-fill_palette
+
+FastLED拥有很多很多默认色板，可以通过一个参数决定渐变颜色
+
+![](./../assets/97.png)
+
+```c++
+...
+fill_palette(leds,30,0,9,OceanColors_p,255,LINEARBLEND);
+// led对象，灯珠数，起始颜色序号，灯珠间色差，色板，光带亮度，过渡效果
+FastLED.show();
+...
+```
+
+![](./../assets/98.png)
+
+2024.4.15

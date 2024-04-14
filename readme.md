@@ -135,3 +135,11 @@ arduino c++ c
     * arduino供电方法
 
 * [FastLED库](./notes/智能应用/FastLED.md)
+
+#### 电机
+
+* [原理和分类](./notes/电机/电机的基本结构和原理.md)
+
+* [控制直流有刷电机](./notes/电机/控制有刷直流电机.md)
+
+    * H桥电路
