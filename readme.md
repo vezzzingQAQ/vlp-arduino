@@ -115,3 +115,23 @@ arduino c++ c
 * [EEPROM](./notes/智能应用/EEPROM.md)
 
 * [内存优化](./notes/智能应用/优化内存使用.md)
+
+* [安装第三方库](./notes/智能应用/安装第三方库.md)
+
+* [红外遥控器-基本原理](./notes/智能应用/红外遥控.md)
+
+* [红外遥控-信号接收](./notes/智能应用/红外遥控信号接收.md)
+
+    * IRremote库
+
+* [红外遥控-信号发射](./notes/智能应用/红外遥控信号发送.md)
+
+* [万能遥控器](./notes/智能应用/万能遥控器.md)
+
+* [WS2812灯带](./notes/智能应用/WS2812.md)
+
+* [arduino控制WS2812](./notes/智能应用/使用arduino控制WS2812.md)
+
+    * arduino供电方法
+
+* [FastLED库](./notes/智能应用/FastLED.md)
