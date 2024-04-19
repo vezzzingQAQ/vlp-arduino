@@ -104,11 +104,17 @@ arduino c++ c
 
 #### 智能应用
 
+##### 传感器
+
 * [光敏电阻](./notes/智能应用/光敏电阻.md)
 
 * [红外人体感应模块](./notes/智能应用/红外人体感应模块.md)
 
+##### RGBLED
+
 * [RGBLED](./notes/智能应用/RGBLED.md)
+
+##### arduino内存
 
 * [arduino内存](./notes/智能应用/arduino内存.md)
 
@@ -117,6 +123,8 @@ arduino c++ c
 * [内存优化](./notes/智能应用/优化内存使用.md)
 
 * [安装第三方库](./notes/智能应用/安装第三方库.md)
+
+##### 红外遥控
 
 * [红外遥控器-基本原理](./notes/智能应用/红外遥控.md)
 
@@ -127,6 +135,8 @@ arduino c++ c
 * [红外遥控-信号发射](./notes/智能应用/红外遥控信号发送.md)
 
 * [万能遥控器](./notes/智能应用/万能遥控器.md)
+
+##### WS2812&FastLED
 
 * [WS2812灯带](./notes/智能应用/WS2812.md)
 
@@ -140,6 +150,28 @@ arduino c++ c
 
 * [原理和分类](./notes/电机/电机的基本结构和原理.md)
 
+##### 直流有刷电机
+
 * [控制直流有刷电机](./notes/电机/控制有刷直流电机.md)
 
     * H桥电路
+
+* [arduino通过控制板控制电机](./notes/电机/arduino驱动直流电机.md)
+
+##### 步进电机
+
+* [步进电机原理](./notes/电机/步进电机原理.md)
+
+* [控制步进电机-基本使用](./notes/电机/arduino控制42步进电机.md)
+
+    * A4988控制模块
+
+    * NEMA42步进电机
+
+* [控制步进电机-综合使用](./notes/电机/arduino控制42步进电机2.md)
+
+* [控制28YBJ-48步进电机](./notes/电机/arduino控制28BYJ-48步进电机.md)
+
+    * Stepper库
+
+* [AccelStepper库](./notes/电机/AccelStepper.md)
